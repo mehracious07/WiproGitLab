@@ -1,2 +1,3 @@
 Hello this is Sanjay Singh Mehara
 Now ill push :- git push -u origin main/master
+Now I am making changes in github and pull it on my local: git pull origin main/master
